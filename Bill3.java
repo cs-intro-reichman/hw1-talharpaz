@@ -10,7 +10,7 @@ public class Bill3 {
 
         double sepratePrice = Math.ceil(value/3.0);
 
-        System.out.println("Dear " + name3 + ", " + name2 + ", " + name3 + ": pay "  + sepratePrice + " Shekels each.");
+        System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ": pay "  + sepratePrice + " Shekels each.");
         
     }
      

@@ -13,7 +13,7 @@ public class FVCalc {
 
     // prints
 
-    System.out.println(" After " + years + " years, $" + currentSum + " saved at " + interestRate + "% will yield $" + (int)futureValue);
+    System.out.println(" After " + years + " years, a $" + currentSum + " saved at " + interestRate + "% will yield $" + (int)futureValue);
     
 
     }
